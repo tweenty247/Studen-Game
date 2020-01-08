@@ -1,0 +1,194 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.head{
+    width: 100%;
+    height: 800px;
+    background-image: url("Pics/V89HFPEFN3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+.container{
+	margin: 0 auto;
+	width: 1100px;
+	background-color: white;
+	border-radius: 50px;
+}
+.subhead1{
+	/*background-color: rgba(255, 206, 918, 0.5);*/
+	height: 100%;
+	font-family: Impact, Charcoal, sans-serif;
+    font-size: 43px;
+    line-height: 2;
+    letter-spacing: -0.4px;
+    word-spacing: 6px;
+    color: white;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+	text-align: center;
+	text-shadow: 0px 0px 0 #899CD5, 1px 1px 0 #8194CD, 2px 2px 0 #788BC4, 3px 3px 0 #6F82BB, 4px 4px 0 #677AB3, 5px 5px 0 #5E71AA, 6px 6px 0 #5568A1, 7px 7px 0 #4C5F98, 8px 8px 0 #445790, 9px 9px 0 #3B4E87, 10px 10px 0 #32457E, 11px 11px 0 #2A3D76, 12px 12px 0 #21346D, 13px 13px 0 #182B64, 14px 14px 0 #0F225B, 15px 15px 0 #071A53, 21px 21px 1px rgba(0,0,0,0.5), 0px 0px 20px rgba(0,0,0,.2), 2px 2px 2px rgba(206,89,55,0);
+
+}
+
+/*color: #92a5de;
+background: #FF0000;
+text-shadow: 0px 0px 0 #899CD5, 1px 1px 0 #8194CD, 2px 2px 0 #788BC4, 3px 3px 0 #6F82BB, 4px 4px 0 #677AB3, 5px 5px 0 #5E71AA, 6px 6px 0 #5568A1, 7px 7px 0 #4C5F98, 8px 8px 0 #445790, 9px 9px 0 #3B4E87, 10px 10px 0 #32457E, 11px 11px 0 #2A3D76, 12px 12px 0 #21346D, 13px 13px 0 #182B64, 14px 14px 0 #0F225B, 15px 15px 0 #071A53, 16px 16px 0 #02114A, 17px 17px 0 #0B0841, 18px 18px 0 #130039, 19px 19px 0 #1C0930, 20px 20px 0 #251227, 21px 21px 20px rgba(0,0,0,1), 21px 21px 1px rgba(0,0,0,0.5), 0px 0px 20px rgba(0,0,0,.2);
+color: #92a5de;
+background: #FF0000;*/
+
+.break1{
+	width: 100%;
+	height: 500px;
+    background-image: url("Pics/46c2a289cb6ef301adef7fb187c40ea5e34271c0.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+.subbreak{
+    margin: 0 auto;
+    width: 600px;
+    color: white;
+    padding-top: 100px;
+    font-size: 46px;
+    background: rgba(0, 0,0,.5);
+}
+.subbreak:hover{
+    background: rgba(0, 0, 255,.5);
+    
+}
+.subsub{
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 255,.5);
+}
+.break2{
+	width: 100%;
+	height: 500px;
+    background-image: url("Pics/flower-field-250016__340.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+.subbreak2{
+    margin: 0 auto;
+    width: 1500px;
+    color: white;
+    padding: 100px 50px;
+    font-size: 55px;
+    text-transform: uppercase;
+    background: rgba(0, 0, 255,.5);
+    border-radius:30%;
+}
+.subbreak2:hover{
+    background: rgba(0, 0,0,.5);
+    transition-property: background;
+    transition-duration: 3s;
+}
+.pic1,.pic2,.pic3{
+	float: left;
+	width: 31.33%;
+    /*border: 1px solid blue;*/
+    margin: 0 12px 50px 8px;
+    padding-top: 40px;
+}
+.pic1 img,.pic3 img{
+	padding: 0;
+	margin: 0;
+	border-radius: 100%;
+}
+.pic2 img{
+	padding: 0;
+	margin: 0;
+	border-radius: 20%;
+}
+.clear{
+	clear: both;
+}
+.content{
+	text-align: center;
+	font-family: Apple Chancery, cursive;
+	color: #202c2d;
+	font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-shadow: 0 1px #808d93, -1px 0 #cdd2d5, -1px 2px #808d93, -2px 1px #cdd2d5, -2px 3px #808d93, -3px 2px #cdd2d5, -3px 4px #808d93, -4px 3px #cdd2d5, -4px 5px #808d93, -5px 4px #cdd2d5, -5px 6px #808d93, -6px 5px #cdd2d5, -6px 7px #808d93, -7px 6px #cdd2d5, -7px 8px #808d93, -8px 7px #cdd2d5;
+}
+
+/*.here{
+    background-image: url('./pics/std/11059948_149371005402713_5031019280181548032_n.jpg'); 
+    background-position: right top; 
+    border-radius: 45%;
+    width:300px;
+    height:400px;
+}
+*/
+
+.about{
+    clear: both;
+    margin: 0 auto;
+    width: 1100px;
+    color: white;
+    padding-top: 100px;
+    font-size: 26px;
+    /*background-image: url('pics/logo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;*/
+}
+.us{
+    background: rgba(0, 0,0,.5);
+}
+.subaboutus{
+    text-align: center;
+    font-size: 90px;
+    color: cyan;
+    font-weight: bold;
+
+    
+    background: #FFFCA8;
+    text-shadow: orange 5px 2px 0px, #9C9C9C 4px 5px 0px;
+}
+.subaboutus img{
+    position: relative;
+    top: 30px;
+}
+.subfoot1{
+    height: 150px;
+    width: 100%;
+    background-color: blue;
+}
+.subfoot2{
+    height: 200px;
+    width: 100%;
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
